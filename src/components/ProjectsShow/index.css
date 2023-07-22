@@ -1,0 +1,43 @@
+.website-logo {
+  width: 120px;
+}
+
+.header-section {
+  background-color: #f1f5f9;
+  padding: 10px 50px;
+  font-family: Roboto;
+}
+
+.projects-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 60px;
+}
+
+.bottom-section {
+  padding: 50px;
+  font-family: Roboto;
+}
+
+.options {
+  height: 34px;
+  width: 50%;
+  padding-left: 7px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  outline: none;
+}
+
+.option-item {
+  padding: 10px;
+}
+
+.loader-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
